@@ -1,6 +1,6 @@
 ---
 permalink: /internship/
-title: "Internship"
+title: "Internships"
 author_profile: true
 redirect_from: 
   - /md/
