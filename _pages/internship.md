@@ -10,8 +10,8 @@ redirect_from:
 
 ## Golang Back End Developer
 * Time: Jun – Aug 2020
-* Location:   Shanghai, China
-* Company:    Qutoutiao
+* Location: Shanghai, China
+* Institution: Qutoutiao
 * Department: Microservices Group, Infrastructure Department
 * Main Tasks:
   * Developed the Message Platform with Golang and Vue which could help IT technicians handle thousands of messages a day. Used MySQL as the storage, Redis as the cache, and multi-thread technology as the solution to concurrent message sending requests.
