@@ -70,6 +70,10 @@ Researchs & Projects
 	* Duration: Feb – May 2019
 	* Institution: Southeast Univeristy
 
+* **Vending Machine Source Code Design Using VHDL**
+	* Duration: Aug - Oct 2018
+	* Institution: Southeast University
+
 <br/>
 
 Knowledge & Skills
