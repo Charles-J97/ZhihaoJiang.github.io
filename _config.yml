@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Zhihao Jiang"
   avatar           : "zhihao.jpg"
-  bio              : "A Matser student in Computer Engineering at CMU. Interested in back-end development and distributed system."
+  bio              : "A Matser student in Computer Engineering at CMU. Interested in back end development and distributed system."
   location         : "Pittsburg, Pennsylvania"
   employer         :
   pubmed           :
@@ -175,16 +175,16 @@ kramdown:
 
 # Collections
 collections:
-  teaching:
+  research:
     output: true
     permalink: /:collection/:path/
-  publications:
+  internship:
     output: true
     permalink: /:collection/:path/
-  portfolio:
+  industryProject:
     output: true
     permalink: /:collection/:path/
-  talks:
+  courseProject:
     output: true
     permalink: /:collection/:path/
 
