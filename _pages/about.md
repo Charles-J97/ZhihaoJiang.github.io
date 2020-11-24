@@ -15,22 +15,7 @@ redirect_from:
 My name is Zhihao Jiang, an incoming master student in Electrical & Computer Engineering at Carnegie Mellon University. 
 <br/> 
 <br/> 
-I am interested in back end development and distributed system. Here are some courses I have learned:
-<br/> 
-======
-* Data Structure and Algorithm
-<br/> 
-* Introduction to Operating System
-<br/> 
-* Computer Network
-<br/> 
-* Computer Architecture and Organization
-<br/> 
-* Database System
-<br/> 
-* Introduction to C++ programming
-<br/> 
-Furthermore, I have learnt relational database like Mysql and no-sql database like Redis and HBase. As to the message queue, I knew how to use rabbitMQ, rocketMQ, and kafka. Besides, I have finished several server development projects with Golang(Gin) and Java(Spring Boot & Spring Cloud). I also knew distributed algorithms and used them in my projects.
+I am interested in back end development and distributed system. Furthermore, I have learnt relational database like Mysql and no-sql database like Redis and HBase. As to the message queue, I knew how to use rabbitMQ, rocketMQ, and kafka. Besides, I have finished several server development projects with Golang(Gin) and Java(Spring Boot & Spring Cloud). I also knew distributed algorithms and used them in my projects.
 <br/> 
 <br/> 
 
@@ -55,3 +40,24 @@ Internship
 	* Location: Shanghai, China
   * Department: Microservices group, Infrastructure department
   * Title: Golang Back End Developer
+
+Knowledge & Skills
+======
+* **Knowledge:**
+	* Data Structure and Algorithm
+	* Operating System
+	* Computer Network
+	* Computer Architecture and organization
+	* Database System
+	* Introduction to C++ programming
+* **Skills:**
+	* MySQL
+	* Redis
+	* HBase
+	* rabbitMQ
+	* rocketMQ
+	* kafka
+	* Gin
+	* Spring Boot
+	* Spring Cloud
+	* Consistent Hashing Algorithm
