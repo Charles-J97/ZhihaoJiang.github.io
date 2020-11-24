@@ -9,7 +9,7 @@ redirect_from:
 
 
 ## Click Fraud Analysis Based on Mobile Sensor Data
-* Time: Jan – May 2020
+* Duration: Jan – May 2020
 * Institution: Jiangsu Provincial Key Laboratory of Network and Information Security
 * Advisor: [A.P. Yubo Song](https://cyber.seu.edu.cn/_s303/syb1/list.psp)
 * Main Tasks:
@@ -18,7 +18,7 @@ redirect_from:
   * Generally, the final classifier had a 90% prediction accuracy. As to the fraudulent data stream with forging time-domain features, the final classifier also had an 89% accuracy, which was increased by 15% compared with traditional models.
 
 ## Distributed Cloud Storage System Development
-* Time: Jul – Sep 2019
+* Duration: Jul – Sep 2019
 * Institution: University of California, Irvine
 * Advisor: [Prof. Fadi Kurdahi](https://engineering.uci.edu/users/fadi-kurdahi)
 * Main Tasks:
