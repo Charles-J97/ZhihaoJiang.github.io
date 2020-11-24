@@ -1,6 +1,6 @@
 ---
 permalink: /industryProject/
-title: "Industry Project"
+title: "Industry Projects"
 author_profile: true
 redirect_from: 
   - /md/
