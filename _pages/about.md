@@ -19,7 +19,8 @@ I am interested in back end development and distributed system. Furthermore, I h
 
 Education
 ======
-* **Carnegie Mellon University**, Master of Science, Sep 2020 – present
+* **Carnegie Mellon University**, Sep 2020 – present
+	*Master of Science*
 	* Department of Electrical and Computer Engineering
 
 * **Southeast University** (985 project), Bechalor of Engineering , Sep 2016 – June 2020
