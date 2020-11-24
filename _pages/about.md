@@ -54,16 +54,16 @@ Knowledge & Skills
 	* Data Structure and Algorithm
 	* Operating System
 	* Computer Network
-	* Computer Architecture and organization
+	* Computer Architecture and Organization
 	* Database System
-	* Introduction to C++ programming
+	* Introduction to C++ Programming
 * **Skills:**
 	* MySQL
 	* Redis
 	* HBase
-	* rabbitMQ
-	* rocketMQ
-	* kafka
+	* RabbitMQ
+	* RocketMQ
+	* Kafka
 	* Go/Gin
 	* Java/Spring Boot
 	* Java/Spring Cloud
