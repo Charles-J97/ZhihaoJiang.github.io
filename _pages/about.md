@@ -26,7 +26,7 @@ Education
 * **Southeast University** (985 project), Sep 2016 – June 2020
 	* School of Information Science and Engineering
 	* Bechalor of Engineering
-	* GPA: 90.11/100 (top 10%)
+	* GPA: 3.87/4 (top 10%)
 	* Advisor: [A.P. Yubo Song](https://cyber.seu.edu.cn/_s303/syb1/list.psp)
 
 * **University of California, Irvine**, Sep – Sep 2019
