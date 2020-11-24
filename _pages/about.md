@@ -30,14 +30,14 @@ Education
 	* Donald Bren School of Information and Computer Science
 	* Advisor: [Prof. Fadi Kurdahi](https://engineering.uci.edu/users/fadi-kurdahi)
   * Research Theme: Distributed Cloud Storage System Development
-
+<br/> 
 Internship
 ======
 * **Qutoutiao** (NASDAQ:QTT), Jun - Aug 2020
 	* Location: Shanghai, China
   * Department: Microservices group, Infrastructure department
   * Title: Golang Back End Developer
-
+<br/> 
 Knowledge & Skills
 ======
 * **Knowledge:**
