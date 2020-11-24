@@ -38,11 +38,11 @@ Education
 ======
 * **Carnegie Mellon University**, Master of Science, Sep 2020 – present
 	* Department of Electrical and Computer Engineering
-<br/> 
+
 * **Southeast University**(985 project), Bechalor of Engineering , Sep 2016 – June 2020
 	* School of Information Science and Engineering
 	* Advisor: [A.P. Yubo Song](https://cyber.seu.edu.cn/_s303/syb1/list.psp)
-<br/> 
+
 * **University of California, Irvine**, summer research，Sep – Sep 2019
 	* Donald Bren School of Information and Computer Science
 	* Advisor: [Prof. Fadi Kurdahi](https://engineering.uci.edu/users/fadi-kurdahi)
