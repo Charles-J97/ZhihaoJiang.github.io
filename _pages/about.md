@@ -38,7 +38,7 @@ Education
 
 <br/>
 
-Internship
+Internships
 ======
 * **Qutoutiao** <i>(NASDAQ:QTT)</i>
 	* Time: Jun - Aug 2020
