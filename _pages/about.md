@@ -33,6 +33,7 @@ Education
 	* summer research
 	* Advisor: [Prof. Fadi Kurdahi](https://engineering.uci.edu/users/fadi-kurdahi)
 	* Research Theme: Distributed Cloud Storage System Development
+
 <br/>
 
 Internship
