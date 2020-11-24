@@ -1,13 +1,13 @@
 # main links links
 main:
   - title: "Research"
-    url: /research/    
+    url: /talks/    
 
   - title: "Internship"
-    url: /internship/    
+    url: /publications/    
     
   - title: "Industry Project"
-    url: /industry_project/
+    url: /teaching/
         
   - title: "Course Project"
-    url: /course_project/
+    url: /markdown/
