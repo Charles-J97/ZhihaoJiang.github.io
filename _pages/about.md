@@ -32,7 +32,6 @@ Education
 	* Donald Bren School of Information and Computer Science
 	* Advisor: [Prof. Fadi Kurdahi](https://engineering.uci.edu/users/fadi-kurdahi)
   * Research Theme: Distributed Cloud Storage System Development
-<br/> 
 
 Internship
 ======
