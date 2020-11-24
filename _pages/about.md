@@ -31,7 +31,6 @@ Education
 	* Advisor: [Prof. Fadi Kurdahi](https://engineering.uci.edu/users/fadi-kurdahi)
   * Research Theme: Distributed Cloud Storage System Development
 
-<br/> 
 <br/>
 
 Internship
@@ -41,7 +40,6 @@ Internship
   * Department: Microservices group, Infrastructure department
   * Title: Golang Back End Developer
 
-<br/> 
 <br/>
 
 Knowledge & Skills
