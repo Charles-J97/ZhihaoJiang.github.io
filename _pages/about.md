@@ -67,4 +67,5 @@ Knowledge & Skills
 	* Go/Gin
 	* Java/Spring Boot
 	* Java/Spring Cloud
+	* Vue.js
 	* Consistent Hashing Algorithm
