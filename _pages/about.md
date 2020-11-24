@@ -27,7 +27,6 @@ Education
 	* School of Information Science and Engineering
 	* Bechalor of Engineering
 	* GPA: 3.87/4 (top 10%)
-	* Advisor: [A.P. Yubo Song](https://cyber.seu.edu.cn/_s303/syb1/list.psp)
 
 * **University of California, Irvine**, Sep – Sep 2019
 	* Donald Bren School of Information and Computer Science
