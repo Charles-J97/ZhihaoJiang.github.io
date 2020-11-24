@@ -43,7 +43,7 @@ Internship
 * **Qutoutiao** <i>(NASDAQ:QTT)</i>
 	* Time: Jun - Aug 2020
 	* Location: Shanghai, China
-	* Department: Microservices group, Infrastructure department
+	* Department: Microservices Group, Infrastructure Department
 	* Title: Golang Back End Developer
 
 <br/>
