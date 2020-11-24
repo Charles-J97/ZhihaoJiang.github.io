@@ -84,16 +84,16 @@ author:
   avatar           : "zhihao.jpg"
   bio              : "A Master student in Computer Engineering at CMU. Interested in back end development and distributed system."
   location         : "Pittsburg, Pennsylvania"
-  employer         : "(+86)15395330900"
-  pubmed           : "(+86)15395330900"
-  googlescholar    : "(+86)15395330900"
+  employer         :
+  pubmed           :
+  googlescholar    :
   email            : "zj2@andrew.cmu.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              : 
-  bitbucket        : "(+86)15395330900"
-  codepen          : "(+86)15395330900"
-  dribbble         : "(+86)15395330900"
-  flickr           : "(+86)15395330900"
+  bitbucket        :
+  codepen          :
+  dribbble         :
+  flickr           :
   facebook         :
   foursquare       :
   github           : "Charles-J97"
