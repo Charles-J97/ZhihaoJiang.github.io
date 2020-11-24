@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 ## CPU Development Based on Microinstructions
-* Time: Feb – May 2019
+* Duration: Feb – May 2019
 * Institution: Southeast University
 * Main Tasks:
   * Developed s set of basic registers to implement basic instructions such as Load, Store, Add, Subtract, And, Or, etc. with VHDL.
