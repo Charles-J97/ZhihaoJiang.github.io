@@ -48,6 +48,30 @@ Internship
 
 <br/>
 
+Research & Projects
+======
+* **Distributed Advertisement System Development**
+	* Time: Oct – Dec 2020
+	* Institution: Carnegie Mellon Univeristy
+
+* **Click Fraud Analysis Based on Mobile Sensor Data**
+	* Time: Jun - Aug 2020
+	* Institution: Jiangsu Provincial Key Laboratory of Network and Information Security
+
+* **Highly Concurrent Seckilling System Development**
+	* Time: Feb – Apr 2020
+	* Institution: Southeast Univeristy
+
+* **Distributed Cloud Storage System Development**
+	* Time: Jul – Sep 2019
+	* Institution: University of California, Irvine
+
+* **CPU Development Based on Microinstructions**
+	* Time: Feb – May 2019
+	* Institution: Southeast Univeristy
+
+<br/>
+
 Knowledge & Skills
 ======
 * **Knowledge:**
