@@ -9,7 +9,7 @@ redirect_from:
 
 
 ## Golang Back End Developer
-* Time: Jun – Aug 2020
+* Duration: Jun – Aug 2020
 * Location: Shanghai, China
 * Institution: Qutoutiao
 * Department: Microservices Group, Infrastructure Department
