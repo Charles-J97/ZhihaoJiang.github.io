@@ -14,7 +14,7 @@ redirect_from:
   * Developed 
 
 
-## Highly Concurrent Spike System Development
+## Highly Concurrent Seckilling System Development
 * Time: Feb – Apr 2020
 * Institution: Southeast University
 * Main Tasks:
