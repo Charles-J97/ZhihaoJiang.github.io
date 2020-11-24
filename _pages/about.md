@@ -17,17 +17,18 @@ My name is Zhihao Jiang, an incoming master student in Electrical & Computer Eng
 <br/> 
 I am interested in back end development and distributed system. Here are some courses I have learned:
 <br/> 
-*Data Structure and Algorithm*
+======
+* Data Structure and Algorithm
 <br/> 
-*Introduction to Operating System*
+* Introduction to Operating System
 <br/> 
-*Computer Network*
+* Computer Network
 <br/> 
-*Computer Architecture and Organization*
+* Computer Architecture and Organization
 <br/> 
-*Database System*
+* Database System
 <br/> 
-*Introduction to C++ programming*
+* Introduction to C++ programming
 <br/> 
 Furthermore, I have learnt relational database like Mysql and no-sql database like Redis and HBase. As to the message queue, I knew how to use rabbitMQ, rocketMQ, and kafka. Besides, I have finished several server development projects with Golang(Gin) and Java(Spring Boot & Spring Cloud). I also knew distributed algorithms and used them in my projects.
 <br/> 
