@@ -20,18 +20,18 @@ I am interested in back end development and distributed system. Furthermore, I h
 Education
 ======
 * **Carnegie Mellon University**
-	* Time: Sep 2020 – present
+	* Duration: Sep 2020 – present
 	* Department: Department of Electrical and Computer Engineering
 	* Degree: Master of Science
 
 * **Southeast University** <i>(985 project)</i>
-	* Time: Sep 2016 – June 2020
+	* Duration: Sep 2016 – June 2020
 	* Department: School of Information Science and Engineering
 	* Degree: Bechalor of Engineering
 	* GPA: 3.87/4 (top 10%)
 
 * **University of California, Irvine** <i>(summer research)</i>
-	* Time: Jul – Sep 2019
+	* Duration: Jul – Sep 2019
 	* Department: Donald Bren School of Information and Computer Science
 	* Advisor: [Prof. Fadi Kurdahi](https://engineering.uci.edu/users/fadi-kurdahi)
 	* Research Theme: Distributed Cloud Storage System Development
@@ -41,7 +41,7 @@ Education
 Internships
 ======
 * **Qutoutiao** <i>(NASDAQ:QTT)</i>
-	* Time: Jun - Aug 2020
+	* Duration: Jun - Aug 2020
 	* Location: Shanghai, China
 	* Department: Microservices Group, Infrastructure Department
 	* Title: Golang Back End Developer
@@ -51,23 +51,23 @@ Internships
 Researchs & Projects
 ======
 * **Distributed Advertisement System Development**
-	* Time: Oct – Dec 2020
+	* Duration: Oct – Dec 2020
 	* Institution: Carnegie Mellon Univeristy
 
 * **Click Fraud Analysis Based on Mobile Sensor Data**
-	* Time: Jun - Aug 2020
+	* Duration: Jun - Aug 2020
 	* Institution: Jiangsu Provincial Key Laboratory of Network and Information Security
 
 * **Highly Concurrent Seckilling System Development**
-	* Time: Feb – Apr 2020
+	* Duration: Feb – Apr 2020
 	* Institution: Southeast Univeristy
 
 * **Distributed Cloud Storage System Development**
-	* Time: Jul – Sep 2019
+	* Duration: Jul – Sep 2019
 	* Institution: University of California, Irvine
 
 * **CPU Development Based on Microinstructions**
-	* Time: Feb – May 2019
+	* Duration: Feb – May 2019
 	* Institution: Southeast Univeristy
 
 <br/>
