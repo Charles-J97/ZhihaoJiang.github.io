@@ -19,18 +19,20 @@ I am interested in back end development and distributed system. Furthermore, I h
 
 Education
 ======
-* **Carnegie Mellon University**, <font size=5 color=#A9A9A9><i>Sep 2020 – present</i></font>
+* **Carnegie Mellon University**
+	* Sep 2020 – present
 	* Department of Electrical and Computer Engineering
 	* Master of Science
 
-* **Southeast University** (985 project), Sep 2016 – June 2020
+* **Southeast University** <i>(985 project)</i>
+	* Sep 2016 – June 2020
 	* School of Information Science and Engineering
 	* Bechalor of Engineering
 	* GPA: 3.87/4 (top 10%)
 
-* **University of California, Irvine**, Sep – Sep 2019
+* **University of California, Irvine** <i>(summer research)</i>
+	* Jul – Sep 2019
 	* Donald Bren School of Information and Computer Science
-	* summer research
 	* Advisor: [Prof. Fadi Kurdahi](https://engineering.uci.edu/users/fadi-kurdahi)
 	* Research Theme: Distributed Cloud Storage System Development
 
