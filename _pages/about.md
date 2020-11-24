@@ -64,7 +64,7 @@ Knowledge & Skills
 	* rabbitMQ
 	* rocketMQ
 	* kafka
-	* Gin
-	* Spring Boot
-	* Spring Cloud
+	* Go/Gin
+	* Java/Spring Boot
+	* Java/Spring Cloud
 	* Consistent Hashing Algorithm
