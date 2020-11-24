@@ -85,9 +85,9 @@ author:
   bio              : "Matser student of Computer Engineering at CMU. Interested in back-end development and distributed system."
   location         : "Pittsburg, Pennsylvania"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
+#   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+#   googlescholar    : "http://yourfullgooglescholarurl.com"
+  email            : "charlesjiang1997@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "zhihaoJiang"
   google_plus      :
   keybase          :
   instagram        :
