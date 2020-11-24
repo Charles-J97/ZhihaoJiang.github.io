@@ -7,7 +7,7 @@ main:
     url: /internship/    
     
   - title: "Industry Project"
-    url: /project/
+    url: /industry_project/
         
   - title: "Course Project"
-    url: /coursework/
+    url: /course_project/
