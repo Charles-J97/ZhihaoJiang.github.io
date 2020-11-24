@@ -8,8 +8,7 @@ redirect_from:
   - /about.html
 ---
 <br/>
-<br/>
-**Welcome to my personal profile!**
+**Welcome!**
 <br/>
 <br/>
 My name is Zhihao Jiang, an incoming master student in Electrical & Computer Engineering at Carnegie Mellon University. 
