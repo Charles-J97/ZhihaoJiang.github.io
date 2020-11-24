@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Zhihao Jiang's Personal Profile"
+title: "Personal Profile"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -9,7 +9,7 @@ redirect_from:
 ---
 <br/>
 <br/>
-**Welcome to my personal page!**
+**Welcome to my personal profile!**
 <br/>
 <br/>
 My name is Zhihao Jiang, an incoming master student in Electrical & Computer Engineering at Carnegie Mellon University. 
