@@ -33,7 +33,6 @@ Furthermore, I have learnt relational database like Mysql and no-sql database li
 <br/> 
 <br/> 
 
-
 Education
 ======
 * **Carnegie Mellon University**, Master of Science, Sep 2020 – present
@@ -47,7 +46,6 @@ Education
 	* Donald Bren School of Information and Computer Science
 	* Advisor: [Prof. Fadi Kurdahi](https://engineering.uci.edu/users/fadi-kurdahi)
   * Research Theme: Distributed Cloud Storage System Development
-<br/> 
 <br/> 
 
 Internship
