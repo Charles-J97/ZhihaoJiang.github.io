@@ -11,7 +11,7 @@ redirect_from:
 ## Click Fraud Analysis Based on Mobile Sensor Data
 * Duration: Jan – May 2020
 * Institution: Jiangsu Provincial Key Laboratory of Network and Information Security
-* Advisor: [A.P. Yubo Song](https://cyber.seu.edu.cn/_s303/syb1/list.psp)
+* Advisor: A.P. [Yubo Song](https://cyber.seu.edu.cn/_s303/syb1/list.psp)
 * Main Tasks:
   * Developed a mobile terminal sensor data collecting system based on Vue and Node.js. Adopted Mel-Frequency Cepstrum Coefficient (MFCC) to extract frequency-domain features of the data.
   * Used feature correlation and importance selection to reduce the dimensionality of the feature set to 22% of its original size. Trained and fused several supervised learning algorithms to get the final classifier.
@@ -20,7 +20,7 @@ redirect_from:
 ## Distributed Cloud Storage System Development
 * Duration: Jul – Sep 2019
 * Institution: University of California, Irvine
-* Advisor: [Prof. Fadi Kurdahi](https://engineering.uci.edu/users/fadi-kurdahi)
+* Advisor: Prof. [Fadi Kurdahi](https://engineering.uci.edu/users/fadi-kurdahi)
 * Main Tasks:
   * Designed and developed a distributed storage system in Gin framework of Golang which supported basic file uploading and downloading, uploading in seconds, uploading in chunks, and resumable uploading.
   * Used the consistent hashing algorithm to implement the load balancing. Adopted scale-out by separating the request-transferring middle layer and data-processing bottom layers. The latter reported the heartbeat periodically to the former through RabbitMQ.
