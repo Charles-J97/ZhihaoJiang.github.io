@@ -9,7 +9,7 @@ redirect_from:
 ---
 <br/>
 <br/>
-**Hello, welcome to my personal page!**
+**Welcome to my personal page!**
 <br/>
 <br/>
 My name is Zhihao Jiang, an incoming master student in Electrical & Computer Engineering at Carnegie Mellon University. 
