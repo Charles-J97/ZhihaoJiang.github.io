@@ -33,7 +33,7 @@ Education
 * **University of California, Irvine** <i>(summer research)</i>
 	* Duration: Jul – Sep 2019
 	* Department: Donald Bren School of Information and Computer Science
-	* Advisor: [Prof. Fadi Kurdahi](https://engineering.uci.edu/users/fadi-kurdahi)
+	* Advisor: Prof. [Fadi Kurdahi](https://engineering.uci.edu/users/fadi-kurdahi)
 	* Research Theme: Distributed Cloud Storage System Development
 
 <br/>
