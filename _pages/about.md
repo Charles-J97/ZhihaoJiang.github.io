@@ -48,7 +48,7 @@ Internship
 
 <br/>
 
-Research & Projects
+Researchs & Projects
 ======
 * **Distributed Advertisement System Development**
 	* Time: Oct – Dec 2020
