@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "Zhihao Jiang"
   avatar           : "profile.png"
-  bio              : "Matser student of Computer Engineering at CMU. Interested in back-end development and distributed system."
+  bio              : "A Matser student of Computer Engineering at CMU. Interested in back-end development and distributed system."
   location         : "Pittsburg, Pennsylvania"
   employer         :
-#   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-#   googlescholar    : "http://yourfullgooglescholarurl.com"
+  pubmed           :
+  googlescholar    :
   email            : "charlesjiang1997@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "zhihaoJiang"
+  github           : "https://github.com/Charles-J97"
   google_plus      :
   keybase          :
   instagram        :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          :
   vine             :
   weibo            :
   xing             :
