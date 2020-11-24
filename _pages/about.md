@@ -22,7 +22,7 @@ Education
 * **Carnegie Mellon University**, Master of Science, Sep 2020 – present
 	* Department of Electrical and Computer Engineering
 
-* **Southeast University**(985 project), Bechalor of Engineering , Sep 2016 – June 2020
+* **Southeast University** (985 project), Bechalor of Engineering , Sep 2016 – June 2020
 	* School of Information Science and Engineering
 	* Advisor: [A.P. Yubo Song](https://cyber.seu.edu.cn/_s303/syb1/list.psp)
 
@@ -33,7 +33,7 @@ Education
 
 Internship
 ======
-* **Qutoutiao**(NASDAQ:QTT), Jun - Aug 2020
+* **Qutoutiao** (NASDAQ:QTT), Jun - Aug 2020
 	* Location: Shanghai, China
   * Department: Microservices group, Infrastructure department
   * Title: Golang Back End Developer
