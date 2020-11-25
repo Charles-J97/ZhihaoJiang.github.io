@@ -58,4 +58,3 @@ Knowledge & Skills
 	* Java/Spring Boot
 	* Java/Spring Cloud
 	* Vue.js
-	* Consistent Hashing Algorithm
