@@ -38,44 +38,6 @@ Education
 
 <br/>
 
-Internships
-======
-* **Qutoutiao** <i>(NASDAQ:QTT)</i>
-	* Duration: Jun - Aug 2020
-	* Location: Shanghai, China
-	* Department: Microservices Group, Infrastructure Department
-	* Title: Golang Back End Developer
-
-<br/>
-
-Researchs & Projects
-======
-* **Distributed Advertisement System Development**
-	* Duration: Oct – Dec 2020
-	* Institution: Carnegie Mellon Univeristy
-
-* **Click Fraud Analysis Based on Mobile Sensor Data**
-	* Duration: Jun - Aug 2020
-	* Institution: Jiangsu Provincial Key Laboratory of Network and Information Security
-
-* **Highly Concurrent Seckilling System Development**
-	* Duration: Feb – Apr 2020
-	* Institution: Southeast Univeristy
-
-* **Distributed Cloud Storage System Development**
-	* Duration: Jul – Sep 2019
-	* Institution: University of California, Irvine
-
-* **CPU Development Based on Microinstructions**
-	* Duration: Feb – May 2019
-	* Institution: Southeast Univeristy
-
-* **Vending Machine Source Code Design**
-	* Duration: Aug - Oct 2018
-	* Institution: Southeast University
-
-<br/>
-
 Knowledge & Skills
 ======
 * **Knowledge:**
