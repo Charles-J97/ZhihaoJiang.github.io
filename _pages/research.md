@@ -9,7 +9,7 @@ redirect_from:
 
 
 ## Click Fraud Analysis Based on Mobile Sensor Data
-* Duration: Jan – May 2020
+* Duration: Jan – April 2020
 * Institution: Jiangsu Provincial Key Laboratory of Network and Information Security
 * Advisor: A.P. [Yubo Song](https://cyber.seu.edu.cn/_s303/syb1/list.psp)
 * Main Tasks:
