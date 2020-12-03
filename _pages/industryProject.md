@@ -7,15 +7,15 @@ redirect_from:
   - /industryProject.html
 ---
 
-## Distributed Advertisement System Development
-* Duration: Oct – Dec 2020
+## Seckilling System Development Based on Microservices
+* Duration: Sep – Nov 2020
 * Institution: Carnegie Mellon University
 * Main Tasks:
   * Developed 
 
 
 ## Highly Concurrent Seckilling System Development
-* Duration: Feb – Apr 2020
+* Duration: Mar – May 2020
 * Institution: Southeast University
 * Main Tasks:
   * Developed 
