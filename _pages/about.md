@@ -20,7 +20,7 @@ I am interested in back end development and distributed system. Furthermore, I h
 Education
 ======
 * **Carnegie Mellon University**
-	* Duration: Sep 2020 – present
+	* Duration: Sep 2020 – Present
 	* Department: Department of Electrical and Computer Engineering
 	* Degree: Master of Science
 
@@ -46,8 +46,8 @@ Knowledge & Skills
 	* Computer Network
 	* Computer Architecture and Organization
 	* Database System
-	* Introduction to C++ Programming
-	* Object-Oriented Programming
+	* Object Oriented Programming
+	* Design Pattern
 * **Skills:**
 	* MySQL
 	* Redis
@@ -58,3 +58,5 @@ Knowledge & Skills
 	* Java/Spring Boot
 	* Java/Spring Cloud
 	* Vue.js
+	* ElasticSearch
+	* Spark
