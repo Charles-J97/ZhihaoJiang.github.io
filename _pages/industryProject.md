@@ -14,7 +14,7 @@ redirect_from:
   * Developed 
 
 
-## Highly Concurrent Seckilling System Development
+## High-precision Search and Recommendation System Development
 * Duration: Mar – May 2020
 * Institution: Southeast University
 * Main Tasks:
