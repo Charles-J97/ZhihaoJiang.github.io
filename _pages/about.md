@@ -20,7 +20,7 @@ I am interested in back end development and distributed system. Furthermore, I h
 Education
 ======
 * **Carnegie Mellon University**
-	* Duration: Sep 2020 – Present
+	* Duration: Aug 2020 – Present
 	* Department: Department of Electrical and Computer Engineering
 	* Degree: Master of Science
 
