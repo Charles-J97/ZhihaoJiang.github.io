@@ -24,13 +24,13 @@ Education
 	* Department: Department of Electrical and Computer Engineering
 	* Degree: Master of Science
 
-* **Southeast University** <i>( 985 project )</i>
+* **Southeast University** (<i>985 project</i>)
 	* Duration: Sep 2016 – Jun 2020
 	* Department: School of Information Science and Engineering
 	* Degree: Bechalor of Engineering
 	* GPA: 3.87/4 (top 10%)
 
-* **University of California, Irvine** <i>( summer research )</i>
+* **University of California, Irvine** (<i>summer research</i>)
 	* Duration: Jul – Sep 2019
 	* Department: Donald Bren School of Information and Computer Science
 	* Advisor: Prof. [Fadi Kurdahi](https://engineering.uci.edu/users/fadi-kurdahi)
