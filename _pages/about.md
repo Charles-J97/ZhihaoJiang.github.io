@@ -13,7 +13,7 @@ redirect_from:
 My name is Zhihao Jiang, a master student in Electrical & Computer Engineering at Carnegie Mellon University. 
 <br/>
 <br/>
-I am interested in back end development and distributed system. Furthermore, I have learnt relational database like Mysql and no-sql database like Redis and HBase. As to the message queue, I knew how to use rabbitMQ and rocketMQ. Besides, I have finished several server development projects with Golang(Gin) and Java(Spring Boot & Spring Cloud). I also knew distributed algorithms and used them in my projects.
+I am interested in back end development and distributed system. Furthermore, I have learnt relational database like Mysql and no-sql database like Redis and HBase. As to the message queue, I knew how to use RabbitMQ and RocketMQ. Besides, I have finished several server development projects with Golang(Gin) and Java(Spring Boot & Spring Cloud). I also knew basic distributed algorithms and design patterns and used them in my projects.
 <br/> 
 <br/> 
 
