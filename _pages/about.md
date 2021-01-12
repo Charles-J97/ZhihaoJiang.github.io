@@ -47,16 +47,14 @@ Knowledge & Skills
 	* Computer Architecture and Organization
 	* Database System
 	* Object Oriented Programming
-	* Design Pattern
 * **Skills:**
+	* Java/Spring Boot
+	* Java/Spring Cloud
+	* Golang/Gin
+	* Vue.js
 	* MySQL
 	* Redis
 	* HBase
 	* RabbitMQ
 	* RocketMQ
-	* Golang/Gin
-	* Java/Spring Boot
-	* Java/Spring Cloud
-	* Vue.js
 	* ElasticSearch
-	* Spark
